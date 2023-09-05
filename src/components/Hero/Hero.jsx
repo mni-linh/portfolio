@@ -12,7 +12,7 @@ const Hero = () => {
           <div className="underline"></div>
 
           <h1>i'm a front-end developer</h1>
-          <p>My slogan hasn't yet thinkkkk 😅</p>
+          <p>My slogan hasn't yet think 😅</p>
 
           <div className="hero-btn-wrapper">
             <Btn
