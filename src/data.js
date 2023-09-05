@@ -6,7 +6,7 @@ export const projects = [
     description: `An E-commerce website to sell luxury watches. This project was built using React, Airtable, Auth0, Stripe with features such as product listing, product details, shopping cart, user authentication with Auth0 and checkout with Stripe payment.`,
     tags: ["React", "Airtable", "Auth0", "Stripe", "Tailwind"],
     liveLink: "https://watch-commerce-airtable-experiment.netlify.app/",
-    ghLink: "https://github.com/namnguyen-dev/reverie-watch-commerce-reactjs",
+    ghLink: "https://github.com/mni-linh/portfolio",
   },
 
   {
@@ -16,6 +16,6 @@ export const projects = [
     description: `A travel website where visitors can get detailed information, latest news & useful tips on visas, destinations & what to do in Vietnam. Developed using the ReactJS and styled using TailwindCSS.`,
     tags: ["React", "Tailwind"],
     liveLink: "https://vietnam-travel.netlify.app/",
-    ghLink: "https://github.com/namnguyen-dev/vietnam-travel-website-reactjs",
+    ghLink: "https://github.com/mni-linh/portfolio",
   },
 ];
