@@ -18,8 +18,7 @@ const Portfolio = () => {
         </div>
 
         {projects.map((project) => {
-          // return <Project project={project} key={project.id} />;
-          // E:\Công việc\my-portfolio\public\favicon.ico
+          return <Project project={project} key={project.id} />;
         })}
       </div>
       <div className="more-btn">
