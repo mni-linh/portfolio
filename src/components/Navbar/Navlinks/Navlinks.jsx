@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Navlinks = ({ setToggleMenu }) => {
   return (
@@ -24,6 +24,11 @@ const Navlinks = ({ setToggleMenu }) => {
           <span>04.</span>portfolio
         </a>
       </li>
+      {/* <li onClick={() => setToggleMenu(false)}>
+        <a href="#contact">
+          <span>05.</span>contact
+        </a>
+      </li> */}
       <li onClick={() => setToggleMenu(false)}>
         <a href="#contact">
           <span>05.</span>contact
