@@ -6,7 +6,7 @@ const SocialLinks = () => {
     <ul className="social-icons">
       <li>
         <a
-          href="https://www.linkedin.com/in/linhttt1305/"
+          href="https://www.linkedin.com/in/mni-linh/"
           className="social-icon"
           target="_blank"
           rel="noopener noreferrer"
